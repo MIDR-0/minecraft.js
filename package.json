@@ -4,7 +4,7 @@
   "description": "A web based Minecraft client",
   "main": "server.js",
   "engines": {
-    "node": "6.5.0"
+    "node": "22.x"
   },
   "directories": {
     "test": "test"
